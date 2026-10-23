@@ -110,7 +110,7 @@ The following documents belong in the repository’s `docs/` directory:
 | Architectural decisions | [06-architectural-decisions.pdf](docs/06-architectural-decisions.pdf) |
 | Verification and evaluation | [07-verification-and-evaluation.pdf](docs/07-verification-and-evaluation.pdf) |
 | Prototype materials | [08-prototype-materials.pdf](docs/08-prototype-materials.pdf) |
-
+| Architecture and digrams | [09-architecture-and-diagrams.pdf](docs/09-architecture-and-diagrams.pdf)
 ## Setup and execution
 
 ### Current documentation stage
