@@ -2,6 +2,10 @@
 
 MathVerity is a diploma project for a web platform that helps students in grades 5–6 practise mathematics through restricted AI hints, independent assessment and gamification. Parents receive skill reports that explain the evidence behind their child’s progress and recommend what to review next.
 
+**Interactive prototype:** [Open MathVerity on GitHub Pages](https://latiyeva.github.io/mathverity-platform/)
+
+The prototype demonstrates learner, parent and content workflows using synthetic data and browser-only state.
+
 **Official topic:** Development of an intelligent platform for improving school students' mathematical skills with gamification elements.
 
 **Current stage:** Analysis and design for the first pre-defense on 24 October 2026.
@@ -105,6 +109,7 @@ The following documents belong in the repository’s `docs/` directory:
 | Requirements and acceptance criteria | [05-requirements.pdf](docs/05-requirements.pdf) |
 | Architectural decisions | [06-architectural-decisions.pdf](docs/06-architectural-decisions.pdf) |
 | Verification and evaluation | [07-verification-and-evaluation.pdf](docs/07-verification-and-evaluation.pdf) |
+| Prototype materials | [08-prototype-materials.pdf](docs/08-prototype-materials.pdf) |
 
 ## Setup and execution
 
