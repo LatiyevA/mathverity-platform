@@ -104,6 +104,7 @@ The following documents belong in the repository’s `docs/` directory:
 | Technology comparison | [04-technology-comparison.pdf](docs/04-technology-comparison.pdf) |
 | Requirements and acceptance criteria | [05-requirements.pdf](docs/05-requirements.pdf) |
 | Architectural decisions | [06-architectural-decisions.pdf](docs/06-architectural-decisions.pdf) |
+| Verification and evaluation | [07-verification-and-evaluation.pdf](docs/07-verification-and-evaluation.pdf) |
 
 ## Setup and execution
 
